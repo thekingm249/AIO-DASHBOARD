@@ -10,7 +10,7 @@ Supported simulators:
 - Automobilista 2
 - Rfactor 2
 - Le Mans Ultimate (with plugins)
-- RaceRoom Racing Experiance
+- RaceRoom Racing Experience
 - F1 Games
 - Forza Motorsport 7 & 8
 
