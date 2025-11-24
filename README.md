@@ -21,7 +21,15 @@ Future supported simulators (Work in progress):
 - WRC
 - BeamNG
 
-* 
+# The files:
+- AIO Dashboard_Leds: The dashboard with an RPM leds
+- AIO Dashboard_No_Leds: The dashbord without an RPM Leds
+
+# To install:
+Please download the latest version of SIMHUB provided by the link below:
+https://www.simhubdash.com/download-2/
+
+
 
 *For LMU :
 
