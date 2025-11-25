@@ -90,3 +90,6 @@ https://github.com/viper4gh/SimHub-Plugin-CalcLngWheelSlip/releases/
 
 
 Hope you like it, I will continue to try to improve it. Bug reports, comments, suggestions and even well-mannered criticism will be much appreciated!
+
+[version.txt](https://github.com/user-attachments/files/23756736/version.txt)
+6.4
