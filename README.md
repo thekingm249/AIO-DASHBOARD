@@ -74,14 +74,14 @@ To install:
 - 5/ Copy "LMU_SessionDataPlugin.dll" to the main SimHub folder ( should be C:\Program Files (x86)\SimHub\ ) and activate it in SimHub.
 
 Please always check the links to have the latest and updated versions
+This plugins are only required for LMU. No third pary plugins are needed for other games.
 
-# For AC, ACC ,AC EVO, AC RALLY, LMU, RF2, RRRE, F1 2018-2023, Gran Turismo 7, Project CARS 1 and 2, AMS2 :
+# For tires Slip/Lock (AC, ACC ,AC EVO, AC RALLY, LMU, RF2, RRRE, F1 2018-2023, Gran Turismo 7, Project CARS 1 and 2, AMS2) :
 Download and install the Viper4gh plugin for calculating wheels slip/lock ( place the *.dll file in main simhub directory and activate it in Simhub)
 https://github.com/viper4gh/SimHub-Plugin-CalcLngWheelSlip/releases/
 
 - 6/ Copy "Viper.PluginCalcLngWheelSlip.dll" to the main SimHub folder ( should be C:\Program Files (x86)\SimHub\ ) and activate it in SimHub.
 
-No other plugins are required for games/Sims for now.
 
 # Great thanks goes to :
 - Haagel ( https://www.overtake.gg/downloads/lmu-neosuperdash.77210/ ) for the NeoRed plugin for LMU
