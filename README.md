@@ -13,11 +13,11 @@ Supported simulators:
 - RaceRoom Racing Experience
 - F1 Games
 - Forza Motorsport 7 & 8
+- Dirt Rally 2
+- Project Motor Racing
 
 Future supported simulators (Work in progress):
-- Dirt Rally 2
 - Richard Burns Rally
-- Project Motor Racing
 - WRC
 - BeamNG
 
