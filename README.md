@@ -1,4 +1,4 @@
-# AIO-DASHBOARD
+# AIO DASHBOARD
 Your all in one dashboard for all major simracing games supported by SIMHUB.
 
 Supported simulators:
@@ -60,11 +60,11 @@ Future supported simulators (Work in progress):
 
 # For LMU :
 
+Latest LMU update (1.2.0.1) broke the telemtry link between Simhub and LMU. My LMU data are heavely based on NeoRed plugin. 
+Please update NeoRed plugin to the latest version and follow the instructions indicated by Haagel https://community.lemansultimate.com/index.php?threads/simhub-neored-plugins-and-dashboard-now-with-automatic-online-update-last-update-14-12-2025-v1-4-0-2.7638/
+
 Download and install the Redadeg plugin and files by following the instructions at the link below:
 https://www.lmu-dashboards.com/index.html#categories (click on "Resources" -> "Plugin Collection") and download the 3 plugins
-
-Download and install the NeoRed plugin by following the instructions at the link below:
-https://community.lemansultimate.com/index.php?threads/upvote-missing-parameters-to-telemetry-for-plugins-feature-request-simhub-neored-plugins-and-dashboard-last-update-26-09-2025-v1-1-0-2.7638/
 
 To install:
 - 1/ Copy "Redadeg.lmuDataPlugin.dll" to the main SimHub folder ( should be C:\Program Files (x86)\SimHub\ ) and activate it in SimHub.
@@ -76,7 +76,7 @@ To install:
 Please always check the links to have the latest and updated versions
 This plugins are only required for LMU. No third pary plugins are needed for other games.
 
-# For tires Slip/Lock (AC, ACC ,AC EVO, AC RALLY, LMU, RF2, RRRE, F1 2018-2023, Gran Turismo 7, Project CARS 1 and 2, AMS2) :
+# For tires Slip/Lock (AC, ACC ,AC EVO, AC RALLY, LMU, RF2, RRRE, F1 2018-2025,Project Motor Racing, Dirt Rally 2, Gran Turismo 7, Project CARS 1 and 2, AMS2) :
 Download and install the Viper4gh plugin for calculating wheels slip/lock ( place the *.dll file in main simhub directory and activate it in Simhub)
 https://github.com/viper4gh/SimHub-Plugin-CalcLngWheelSlip/releases/
 
