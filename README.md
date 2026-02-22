@@ -65,14 +65,18 @@ Future supported simulators (Work in progress):
 
 # For LMU :
 
-Latest LMU update (1.2.0.1) broke the telemtry link between Simhub and LMU. My LMU data are heavely based on NeoRed plugin. 
-Please update NeoRed plugin to the latest version and follow the instructions indicated by Haagel https://community.lemansultimate.com/index.php?threads/simhub-neored-plugins-and-dashboard-now-with-automatic-online-update-last-update-14-12-2025-v1-4-0-2.7638/
+Latest LMU update (1.2.0.1) broke the telemtry link between Simhub and LMU. My LMU data are heavely based on NeoRed plugin. The missing telemtry data are provided by LMU Electronic Bridge.
+
+Please update NeoRed plugin to the latest version and follow the installation instructions indicated by Haagel https://community.lemansultimate.com/index.php?threads/simhub-neored-plugins-and-dashboard-now-with-automatic-online-update-last-update-14-12-2025-v1-4-0-2.7638/
+
+Please update LMU-Electronic-Bridge and follow the installation instructions indicated by nikolaiNr7 https://github.com/nikolaiNr7/LMU-Electronic-Bridge-Release
 
 To install:
-- 1/ Copy "LMU_SharedMemoryMapPlugin64.dll" to ..\Le Mans Ultimate\Plugins\
-- 2/ Copy "CustomPluginVariables.JSON" to ..\Le Mans Ultimate\UserData\player\
+- 1/ Copy "LMU_SharedMemoryMapPlugin64.dll" to ..\Le Mans Ultimate\Plugins\ (to download : https://github.com/tembob64/LMU_SharedMemoryMapPlugin/releases )
+- 2/ Copy "CustomPluginVariables.JSON" to ..\Le Mans Ultimate\UserData\player\ (to download : https://www.lmu-dashboards.com/index.html go to "Resources" -> "Plugin Collection" -> download "Custom Plugin Variables")
 - 3/ Copy "NeoRed.lmuDataPlugin.dll" to the main SimHub folder ( should be C:\Program Files (x86)\SimHub\ ) and activate it in SimHub.
 - 4/ Copy "LMU_SessionDataPlugin.dll" to the main SimHub folder ( should be C:\Program Files (x86)\SimHub\ ) and activate it in SimHub.
+- 5/ Copy "LMUElectronicBridge.dll" to the main SimHub folder ( should be C:\Program Files (x86)\SimHub\ ) and activate it in SimHub.
 
 Please always check the links to have the latest and updated versions
 This plugins are only required for LMU. No third pary plugins are needed for other games.
@@ -87,6 +91,7 @@ https://github.com/viper4gh/SimHub-Plugin-CalcLngWheelSlip/releases/
 - Haagel ( https://www.overtake.gg/downloads/lmu-neosuperdash.77210/ ) for the NeoRed plugin for LMU
 - Redadeg, Shaun86 and geims12 for the excellent plugins they made
 - Viper4gh for the great Slip/Lock plugin
+- nikolaiNr7 for the LMU-Electronic-Bridge plugin
 
 
 Hope you like it, I will continue to try to improve it. Bug reports, comments, suggestions and even well-mannered criticism will be much appreciated.
