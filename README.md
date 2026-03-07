@@ -4,8 +4,8 @@ Your all in one dashboard for all major simracing games supported by SIMHUB.
 Supported simulators:
 - Assetto Corsa
 - Assetto Corsa Competizione
-- Assetto Corsa Evo (partially)
-- Assetto Corsa Rally
+- Assetto Corsa Evo (partially, game in early phase)
+- Assetto Corsa Rally (partially, game in early phase)
 - Automibilista 
 - Automobilista 2
 - Rfactor 2
@@ -15,9 +15,10 @@ Supported simulators:
 - Forza Motorsport 7 & 8
 - Dirt Rally 2
 - Project Motor Racing
+- Richard Burns Rally
+- Live for speed (partially, some telemtry is missing in the game)
 
 Future supported simulators (Work in progress):
-- Richard Burns Rally
 - WRC
 - BeamNG
 
@@ -70,6 +71,9 @@ Latest LMU update (1.2.0.1) broke the telemtry link between Simhub and LMU. My L
 Please update NeoRed plugin to the latest version and follow the installation instructions indicated by Haagel https://community.lemansultimate.com/index.php?threads/simhub-neored-plugins-and-dashboard-now-with-automatic-online-update-last-update-14-12-2025-v1-4-0-2.7638/
 
 Please update LMU-Electronic-Bridge and follow the installation instructions indicated by nikolaiNr7 https://github.com/nikolaiNr7/LMU-Electronic-Bridge-Release
+
+If you have issue installing or using LMU-Electronic-Bridg follow this guide:
+https://www.youtube.com/watch?v=DJj0lQPMOvI
 
 To install:
 - 1/ Copy "LMU_SharedMemoryMapPlugin64.dll" to ..\Le Mans Ultimate\Plugins\ (to download : https://github.com/tembob64/LMU_SharedMemoryMapPlugin/releases )
