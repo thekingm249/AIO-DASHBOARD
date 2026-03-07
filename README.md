@@ -66,7 +66,7 @@ Future supported simulators (Work in progress):
 
 # For LMU :
 
-Latest LMU update (1.2.0.1) broke the telemtry link between Simhub and LMU. My LMU data are heavely based on NeoRed plugin. The missing telemtry data are provided by LMU Electronic Bridge.
+Since LMU update (1.2.0.1) the telemtry link between Simhub and LMU is broken. My LMU data are heavely based on NeoRed plugin. The missing telemtry data are provided by LMU Electronic Bridge.
 
 Please update NeoRed plugin to the latest version and follow the installation instructions indicated by Haagel https://community.lemansultimate.com/index.php?threads/simhub-neored-plugins-and-dashboard-now-with-automatic-online-update-last-update-14-12-2025-v1-4-0-2.7638/
 
