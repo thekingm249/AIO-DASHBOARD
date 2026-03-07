@@ -72,7 +72,7 @@ Please update NeoRed plugin to the latest version and follow the installation in
 
 Please update LMU-Electronic-Bridge and follow the installation instructions indicated by nikolaiNr7 https://github.com/nikolaiNr7/LMU-Electronic-Bridge-Release
 
-If you have issue installing or using LMU-Electronic-Bridg follow this guide:
+If you have issue installing or using LMU-Electronic-Bridge follow this guide:
 https://www.youtube.com/watch?v=DJj0lQPMOvI
 
 To install:
