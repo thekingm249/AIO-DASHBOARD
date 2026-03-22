@@ -17,6 +17,7 @@ Supported simulators:
 - Project Motor Racing
 - Richard Burns Rally
 - Live for speed (partially, some telemtry is missing in the game)
+- IRacing
 
 Future supported simulators (Work in progress):
 - WRC
