@@ -9,19 +9,19 @@ Supported simulators:
 - Automibilista 
 - Automobilista 2
 - Rfactor 2
-- Le Mans Ultimate (with plugins)
+- Le Mans Ultimate (with NeoRed plugin)
 - RaceRoom Racing Experience
-- F1 Games
+- F1 Games (2010 to 2025)
 - Forza Motorsport 7 & 8
 - Dirt Rally 2
 - Project Motor Racing
 - Richard Burns Rally
 - Live for speed (partially, some telemtry is missing in the game)
 - IRacing
+- BeamNG
 
 Future supported simulators (Work in progress):
 - WRC
-- BeamNG
 
 # What this dash provide ?
 3 screens:
