@@ -57,22 +57,26 @@ Future supported simulators (Work in progress):
 # The files:
 - AIO Dashboard_Leds: The dashboard with an RPM leds
 - AIO Dashboard_No_Leds: The dashboard without an RPM Leds
-
-  <img width="1920" height="611" alt="50" src="https://github.com/user-attachments/assets/10f49a10-baa1-45ab-8a58-c1137b8eb9a8" />
 - New : AIO Dashboard WIDE : Wide version with 4 selectable widgets @ 1280x400 in the first page and leaderboards in the second.
-
-
-<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/c2d3b429-f268-4df4-aca5-b9260a9c6116" />
 - New : AIO RACE MONITOR : 3 pages with a switchbale leaderboard widget (Action A). You can select the race standings , your detailed pace and your class leaderboard in multiclass races and 3 switchable widgets (Action B, C and D) ( the AIO RACE MONITOR Portrait have one page with switchable wigdets and the same leaderboard)
-  
+
+
+ AIO Dashboard WIDE 
+ <img width="1920" height="611" alt="50" src="https://github.com/user-attachments/assets/10f49a10-baa1-45ab-8a58-c1137b8eb9a8" />
+
+ 
+ AIO RACE MONITOR
+ <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/c2d3b429-f268-4df4-aca5-b9260a9c6116" />
+
+
+
+
 
 # To install:
 - 1/ Please download the latest version of SIMHUB: https://www.simhubdash.com/download-2/
-- 2/ Download the latest "AIO DASHBOARD" from the release section
+- 2/ Download the latest "AIO DASHBOARD" files from the release section
 - 3/ Install the dashbords by double clicking on the files
-- 4/ Assign action and show next/previous screen buttons in SIMHUB: Go to Dash Studio -> Controls -> scroll down to "Default dashbord controls" and assign trigger action and show next/previous screen buttons to you liking
-
-<img width="1920" height="1080" alt="001" src="https://github.com/user-attachments/assets/e25b6fc5-45a0-42a9-a15d-4542a8dbd2c9" />
+- 4/ Assign action and show next/previous screen buttons in SIMHUB: Go to Dash Studio -> Controls -> scroll down to "Default dashbord controls" and assign trigger action and show next/previous screen buttons to your liking
 
 
 # For LMU :
