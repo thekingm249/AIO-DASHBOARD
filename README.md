@@ -62,6 +62,8 @@ Future supported simulators (Work in progress):
 <img width="1920" height="611" alt="50" src="https://github.com/user-attachments/assets/10f49a10-baa1-45ab-8a58-c1137b8eb9a8" />
 
 
+
+
 - New : AIO RACE MONITOR : 3 pages with a switchbale leaderboard widget (Action A). You can select the race standings , your detailed pace and your class leaderboard in multiclass races and 3 switchable widgets (Action B, C and D) ( the AIO RACE MONITOR Portrait have one page with switchable wigdets and the same leaderboard)
   
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/c2d3b429-f268-4df4-aca5-b9260a9c6116" />
